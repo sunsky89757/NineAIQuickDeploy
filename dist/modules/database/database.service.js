@@ -86,7 +86,7 @@ let DatabaseService = class DatabaseService {
                     encry: 0,
                 },
                 { configKey: 'buyCramiAddress', configVal: '', public: 1, encry: 0 },
-                { configKey: 'openaiBaseUrl', configVal: 'https://api.lightai.io', public: 0, encry: 0 },
+                { configKey: 'openaiBaseUrl', configVal: 'https://api.juheai.top', public: 0, encry: 0 },
                 { configKey: 'noticeInfo', configVal: noticeInfo, public: 1, encry: 0 },
                 { configKey: 'registerVerifyEmailTitle', configVal: 'AIWeb账号验证', public: 0, encry: 0 },
                 {
