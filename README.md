@@ -1,3 +1,29 @@
+### 宝塔安装部署教程
+
+1. 宝塔装好后，用Node.js管理器安装Node。
+![image](https://github.com/sunsky89757/NineAIQuickDeploy/assets/113254524/063a3874-cf14-48b6-90c9-3c3c25f2b6df)
+
+2. 安装完成后，进入模块把pm2和pnpm装上。
+![image](https://github.com/sunsky89757/NineAIQuickDeploy/assets/113254524/42c0404a-77fa-43b0-bd0a-4f4f0d4a35b4)
+
+3. 这里把命令行选择你已经安装好的Node版本。
+![image](https://github.com/sunsky89757/NineAIQuickDeploy/assets/113254524/a6f1d720-bc0f-4b15-82d5-fba9db01d54e)
+
+4. 找个地方把程序文件放上。
+![image](https://github.com/sunsky89757/NineAIQuickDeploy/assets/113254524/e8edd24d-bfa5-4a08-a194-9fb62d7b18be)
+
+5. 进入SSH后，你大概率找不到安装好的pnpm，提示“-bash:pnpm:command not found”。
+![image](https://github.com/sunsky89757/NineAIQuickDeploy/assets/113254524/eb2892aa-77de-492c-8d39-4649b0e30723)
+
+6. 这时候不要慌，按照以下步骤操作：
+![image](https://github.com/sunsky89757/NineAIQuickDeploy/assets/113254524/df79593f-771d-4ef2-98e2-731154daa2fd)
+
+教程文章地址参考：https://www.bt.cn/bbs/thread-112301-1-1.html
+
+7. 然后cd到你的安装文件，用下方的部署命令继续完成安装即可。
+![image](https://github.com/sunsky89757/NineAIQuickDeploy/assets/113254524/f1275fc8-72a9-46cd-83f5-7c94c5500ab5)
+
+
 # NineAI 更新整合版
 
 99AI 整合版：基于 NineAI 二开的可商业化 AI Web 应用（免授权，无后门，支持快速部署）
