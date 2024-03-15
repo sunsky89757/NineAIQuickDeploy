@@ -132,8 +132,4 @@
 4. **启动服务**
    - 使用命令：`pnpm start` 来启动项目，它将默认在 9520 端口监听。
 
-## 学习交流
 
-完整未编译源码暂未开源，扫码添加微信备注 99，拉交流群
-
-<img src="https://github.com/vastxie/NineAIQuickDeploy/assets/24899308/ee20578f-063d-48d8-bff6-85ac3e38fe60" width="300">
